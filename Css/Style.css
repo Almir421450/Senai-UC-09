@@ -1,0 +1,9 @@
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.menu-topo {
+    background-color: rgb(228, 20, 20);
+    height: 60px;
+}
