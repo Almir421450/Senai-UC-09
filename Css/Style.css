@@ -1,6 +1,7 @@
-body {
+body{
     width: 100%;
-    height: 100%;
+    height: auto;
+    padding: 3px;
 }
 
 *{
@@ -30,9 +31,8 @@ header {
     width: 100%;
     height: 40px;
     text-align: center;
-    font-size: large;   
-    margin-left: 7px;
-    margin-top: .5px;   
+    font-size: large; 
+      
     text-decoration: none;
     padding: 7px;
 }
